@@ -20,8 +20,6 @@ def jogar_adv():
     else:
         tentativas = 5
 
-
-
     for rodada in range(tentativas):
         
         print (f"Tentativa {rodada+1} de {tentativas}")
